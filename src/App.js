@@ -42,7 +42,7 @@ function App() {
         <Content>
             <div className="page-content" />
             <Main />
-            <Accesssql />
+        
         </Content>
     </Layout>
 </div>
