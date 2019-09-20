@@ -6,6 +6,7 @@ import Contact from './contact';
 import Projects from './projects';
 import Tutorials from './tutorials'
 import Services from './services'
+import Customer from './customer'
 
 const Main=()=>(
 	<Switch>
@@ -14,6 +15,8 @@ const Main=()=>(
 		<Route path="/projects" component={Projects} />
 		<Route path="/services" component={Services} />
 		<Route path="/tutorials" component={Tutorials} />
+		<Route path="/customer" component={Customer} />
+		
 	</Switch>
 )
 
