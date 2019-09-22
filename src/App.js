@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
-import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+import { Layout, Header, Navigation, Drawer, Content,Footer, FooterSection, FooterLinkList } from 'react-mdl';
 import Main from './components/main';
 import Particles from 'react-particles-js';
+
 //import Accesssql from './components/Mybusiness/accesssql';
 
 const particlesOptions={
@@ -44,8 +45,20 @@ function App() {
         <Content>
             <div className="page-content" />
             <Main />
-        
         </Content>
+    
+
+        <Footer size="mega">
+            <FooterSection type="bottom" logo="Title">
+                <FooterLinkList>
+                    <a href="/about">About</a>
+                    <a href="/faq">FAQ</a>
+                    <a href="/help">Help</a>
+                    <a href="/privacy">Privacy & Terms</a>
+                </FooterLinkList>
+                <p>&copy; {new Date().getFullYear()} Copyright: <a href="https://www.https://bworldca.herokuapp.com">https://bworldca.herokuapp.com </a></p>
+            </FooterSection>
+        </Footer>
     </Layout>
 </div>
   );
