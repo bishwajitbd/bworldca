@@ -30,7 +30,7 @@ export const projectListData=[
 	projectType:'ASP.NET',
 	projectTite:'SOAP API',
 	imagelink:asp,
-	summary:'Demonestrate SOAP API using WFC. There are three app one is client and two services realated',
+	summary:'Demonestrate SOAP API using WFC. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
 	liveLink:'http://localhost:3000/projects'
 },

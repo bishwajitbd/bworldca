@@ -9,8 +9,8 @@ const ProjectCard=(props)=>{
 			<CardTitle style={{color: '#fff', height: '200px', 
 	    	background: `url(${props.imagelink}) center / cover`}}>
 	    	</CardTitle>
-					<p><b>{props.projectTite}</b></p>
 			<CardText>
+					<p><b>{props.projectTite}</b></p>
 					<p>{props.summary}</p>
 		    </CardText>
 

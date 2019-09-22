@@ -25,6 +25,7 @@ function App() {
     <Layout>
         <Header title="bworld.ca" scroll>
             <Navigation>
+                <a href="/">Home</a>
                 <a href="/services">Services</a>
                 <a href="/customer">Customer</a>
                 <a href="/tutorials">Tutorials</a>
@@ -35,6 +36,7 @@ function App() {
 
         <Drawer title="Menu">
             <Navigation>
+                <a href="/">Home</a>
                 <a href="/services">Services</a>
                 <a href="/customer">Customer</a>
                 <a href="/tutorials">Tutorials</a>
@@ -55,6 +57,7 @@ function App() {
                     <a href="/faq">FAQ</a>
                     <a href="/help">Help</a>
                     <a href="/privacy">Privacy & Terms</a>
+                    <a href="/contact">BISHWAJIT BARUA</a>
                 </FooterLinkList>
                 <p>&copy; {new Date().getFullYear()} Copyright: <a href="https://www.https://bworldca.herokuapp.com">https://bworldca.herokuapp.com </a></p>
             </FooterSection>

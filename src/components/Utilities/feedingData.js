@@ -4,7 +4,7 @@ export const feedingData=[
 	title:'Software Development',
 	imagelink:'https://img1.ibay.com.mv/is1/full/2017/01/item_1740361_236.png',
 	summary:'Develop software according to your requirement using Microsoft Access and SQL Server.',
-	desciption:'Develop software according to your requirement using Microsoft Access and SQL Server.'
+	desciption:'Develop software according to your requirement.'
 },
 {
 	id:2,
@@ -17,7 +17,7 @@ export const feedingData=[
 	id:3,
 	title:'Reporting and ETL process',
 	imagelink:'https://icon-library.net/images/report-icon-png/report-icon-png-11.jpg',
-	summary:'Develop your own customized reports and ETL process from various data sources such as flat files, Excel, CSV, SQL Server, Access or other data source.',
+	summary:'Customized reports and ETL process from various data sources such as flat files, Excel, CSV, SQL Server, Access or other data source.',
 	desciption:'Develop your own customized reports and ETL process from various data sources such as flat files, Excel, CSV, SQL Server, Access or other data source.'
 },
 {
