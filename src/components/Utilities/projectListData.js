@@ -11,7 +11,7 @@ export const projectListData=[
 	projectType:'React',
 	projectTite:'My potfolio based website',
 	imagelink:react,
-	summary:'Hosted in Herokuapp.com. This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
+	summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted in Herokuapp.com. This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
 	github:'https://github.com/bishwajitbd/bworldca',
 	liveLink:'https://bworldca.herokuapp.com/'
 },
@@ -20,7 +20,7 @@ export const projectListData=[
 	projectType:'ASP.NET',
 	projectTite:'Membership servics app',
 	imagelink:asp,
-	summary:'Hosted at https://www.smarterasp.net/. Entertainment based products sales here.',
+	summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted at https://www.smarterasp.net/. Entertainment based products sales here.',
 	github:'https://github.com/bishwajitbd/bworldca',
 	liveLink:'http://bbaruaca-001-site1.etempurl.com/'
 },
@@ -30,7 +30,7 @@ export const projectListData=[
 	projectType:'ASP.NET',
 	projectTite:'SOAP API',
 	imagelink:asp,
-	summary:'Demonestrate SOAP API using WFC. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
+	summary:'Demonestrate SOAP API using WCF. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
 	liveLink:'http://localhost:3000/projects'
 },
@@ -39,7 +39,7 @@ export const projectListData=[
 	projectType:'Android',
 	projectTite:'Tic-Tac-Toe game',
 	imagelink:android,
-	summary:'Tic-Toc-Toe App is a dynamic app that store data in the litesql.',
+	summary:'Tic-Toc-Toe App is a dynamic app that store data in the sqlite.',
 	github:'https://github.com/bishwajitbd/Android_Tic_Toc_Toe',
 	liveLink:'http://localhost:3000/projects'
 },
@@ -48,7 +48,7 @@ export const projectListData=[
 	projectType:'Android',
 	projectTite:'Bloging app',
 	imagelink:android,
-	summary:'Easy to post blog and share it within your team',
+	summary:'Easy to post blog and share it within your team. Database is connected woth Firebase',
 	github:'https://github.com/bishwajitbd/BloggingProject_Android',
 	liveLink:'http://localhost:3000/projects'
 
@@ -58,7 +58,7 @@ export const projectListData=[
 	projectType:'Python',
 	projectTite:'REST API',
 	imagelink:python,
-	summary:'Demonestrate SOAP API using WFC. There are three app one is client and two services realated. App uses python, flax, auth',
+	summary:'Demonestrate REST API using Python and flash.',
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
 	liveLink:'http://localhost:3000/projects'
 },
@@ -67,7 +67,7 @@ export const projectListData=[
 	projectType:'Java',
 	projectTite:'JPA exersise',
 	imagelink:java,
-	summary:'Demonestrate SOAP API using WFC. There are three app one is client and two services realated',
+	summary:'Demonestrate JPA exersise using Java.',
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
 	liveLink:'http://localhost:3000/projects'
 },
@@ -77,7 +77,7 @@ export const projectListData=[
 	projectType:'Access',
 	projectTite:'Motion Concept',
 	imagelink:access,
-	summary:'Developed complain tracking and sticker printing',
+	summary:'Clied App. Developed complain tracking and sticker printing',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
 	liveLink:'http://localhost:3000/projects'
 },
