@@ -11,16 +11,16 @@ export const projectListData=[
 	projectType:'React',
 	projectTite:'My potfolio based website',
 	imagelink:react,
-	summary:'This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
+	summary:'Hosted in Herokuapp.com. This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
 	github:'https://github.com/bishwajitbd/bworldca',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:'https://bworldca.herokuapp.com/'
 },
 {
 	projectId:2,
 	projectType:'ASP.NET',
 	projectTite:'Membership servics app',
 	imagelink:asp,
-	summary:'Entertainment based products sales here.',
+	summary:'Hosted at https://www.smarterasp.net/. Entertainment based products sales here.',
 	github:'https://github.com/bishwajitbd/bworldca',
 	liveLink:'http://bbaruaca-001-site1.etempurl.com/'
 },
