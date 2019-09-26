@@ -101,13 +101,13 @@ class Projects extends Component{
 		return(
 			<div className="catagory-tab">
 				<Tabs activeTab={this.state.activeTab} onChange={(tabId)=>this.setState({activeTab:tabId})} ripple>
-					<Tab>React</Tab>
-					<Tab>ASP.NET</Tab>
-					<Tab>Android</Tab>
-					<Tab>Python</Tab>
-					<Tab>Java</Tab>
-					<Tab>Access</Tab>
-					<Tab>TESTING</Tab>
+					<Tab><b>React</b></Tab>
+					<Tab><b>ASP.NET</b></Tab>
+					<Tab><b>Android</b></Tab>
+					<Tab><b>Python</b></Tab>
+					<Tab><b>Java</b></Tab>
+					<Tab><b>Access</b></Tab>
+					<Tab><b>Testing</b></Tab>
 				</Tabs>
 
 				<section className="projects-grid">
