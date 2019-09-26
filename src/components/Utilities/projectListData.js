@@ -1,5 +1,5 @@
 let react='https://reactjs.org/logo-og.png';
-let java='https://www.redeszone.net/app/uploads/2013/11/java_main.png?x=768';
+let java='https://i.dlpng.com/static/png/4368516_preview.png';
 let asp='https://wakeupandcode.com/wp-content/uploads/2019/03/C.NET_-1024x384-1.png';
 let android='https://optus.i.lithium.com/t5/image/serverpage/image-id/10327iB4BBF502EE5A5C36?v=1.0'
 let python='https://www.sketchappsources.com/resources/source-image/python-logo.png';
