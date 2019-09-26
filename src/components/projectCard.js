@@ -10,7 +10,7 @@ const ProjectCard=(props)=>{
 	    	background: `url(${props.imagelink}) center / cover`}}>
 	    	</CardTitle>
 			<CardText>
-					<p><b>{props.projectTite}</b></p>
+					<p><b><u>{props.projectTite}</u></b></p>
 					<p>{props.summary}</p>
 		    </CardText>
 

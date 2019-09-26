@@ -4,6 +4,7 @@ let asp='https://wakeupandcode.com/wp-content/uploads/2019/03/C.NET_-1024x384-1.
 let android='https://optus.i.lithium.com/t5/image/serverpage/image-id/10327iB4BBF502EE5A5C36?v=1.0'
 let python='https://www.sketchappsources.com/resources/source-image/python-logo.png';
 let access='http://howtolearn.me/wp-content/uploads/2014/04/Microsoft-Access-Logo.gif';
+let selenium='https://qph.fs.quoracdn.net/main-qimg-30b78130863ea42a08b57d14a591f97d';
 
 export const projectListData=[
 {
@@ -48,7 +49,7 @@ export const projectListData=[
 	projectType:'Android',
 	projectTite:'Bloging app',
 	imagelink:android,
-	summary:'Easy to post blog and share it within your team. Database is connected woth Firebase',
+	summary:'Easy to post blog and share it within your team. Data store in your Firebase database',
 	github:'https://github.com/bishwajitbd/BloggingProject_Android',
 	liveLink:'http://localhost:3000/projects'
 
@@ -79,6 +80,15 @@ export const projectListData=[
 	imagelink:access,
 	summary:'Clied App. Developed complain tracking and sticker printing',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
+	liveLink:'http://localhost:3000/projects'
+},
+{
+	projectId:7,
+	projectType:'Selenium',
+	projectTite:'A complete Testing Framework (Java, Selenium, TestNG)',
+	imagelink:selenium,
+	summary:'A complete testing framework following page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
+	github:'https://github.com/bishwajitbd/TestingFrameworkWithSelenum',
 	liveLink:'http://localhost:3000/projects'
 },
 ]

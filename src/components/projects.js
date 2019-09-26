@@ -83,6 +83,18 @@ class Projects extends Component{
 				</div>
 			)
 		}
+		else if(this.state.activeTab===6){
+			return(
+				<div className="tc">
+				<h1>Auomated Software Testing</h1>
+				<hr/>
+			        <Content>
+			            <div className="page-content" />
+			            <ProjectList projectListData={projectListData} activeTab={7} />
+			        </Content>
+				</div>
+			)
+		}
 	}
 
 	render(){
@@ -95,6 +107,7 @@ class Projects extends Component{
 					<Tab>Python</Tab>
 					<Tab>Java</Tab>
 					<Tab>Access</Tab>
+					<Tab>TESTING</Tab>
 				</Tabs>
 
 				<section className="projects-grid">
