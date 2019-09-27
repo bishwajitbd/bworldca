@@ -52,7 +52,6 @@ export const projectListData=[
 	summary:'Easy to post blog and share it within your team. Data store in your Firebase database',
 	github:'https://github.com/bishwajitbd/BloggingProject_Android',
 	liveLink:'#'
-
 },
 {
 	projectId:4,
@@ -72,7 +71,6 @@ export const projectListData=[
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
 	liveLink:'#'
 },
-
 {
 	projectId:6,
 	projectType:'Access',
@@ -89,7 +87,7 @@ export const projectListData=[
 	imagelink:selenium,
 	summary:'A complete testing framework following page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
 	github:'https://github.com/bishwajitbd/TestingFrameworkWithSelenum',
-	liveLink:'#'
+	liveLink:'https://www.youtube.com/watch?v=Vvm8fw9K_S4'
 },
 ]
 
