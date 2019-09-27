@@ -33,7 +33,7 @@ export const projectListData=[
 	imagelink:asp,
 	summary:'Demonestrate SOAP API using WCF. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 },
 {
 	projectId:3,
@@ -42,7 +42,7 @@ export const projectListData=[
 	imagelink:android,
 	summary:'Tic-Toc-Toe App is a dynamic app that store data in the sqlite.',
 	github:'https://github.com/bishwajitbd/Android_Tic_Toc_Toe',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 },
 {
 	projectId:3,
@@ -51,7 +51,7 @@ export const projectListData=[
 	imagelink:android,
 	summary:'Easy to post blog and share it within your team. Data store in your Firebase database',
 	github:'https://github.com/bishwajitbd/BloggingProject_Android',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 
 },
 {
@@ -61,7 +61,7 @@ export const projectListData=[
 	imagelink:python,
 	summary:'Demonestrate REST API using Python and flash.',
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 },
 {
 	projectId:5,
@@ -70,7 +70,7 @@ export const projectListData=[
 	imagelink:java,
 	summary:'Demonestrate JPA exersise using Java.',
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 },
 
 {
@@ -78,9 +78,9 @@ export const projectListData=[
 	projectType:'Access',
 	projectTite:'Motion Concept',
 	imagelink:access,
-	summary:'Clied App. Developed complain tracking and sticker printing',
+	summary:'Client App. Developed complain tracking and sticker printing',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 },
 {
 	projectId:7,
@@ -89,7 +89,7 @@ export const projectListData=[
 	imagelink:selenium,
 	summary:'A complete testing framework following page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
 	github:'https://github.com/bishwajitbd/TestingFrameworkWithSelenum',
-	liveLink:'http://localhost:3000/projects'
+	liveLink:''
 },
 ]
 
