@@ -16,7 +16,8 @@ const ProjectCard=(props)=>{
 
 			<CardActions border>
 		        <Button colored><a href={props.github} target="_blank" rel="noopener noreferrer" text-left>GitHub</a></Button>
-		        <Button colored><a href={props.liveLink} target="_blank" rel="noopener noreferrer" text-right>Live/Hosted</a></Button>
+		        <Button colored><a href={props.liveLink} target="_blank" rel="noopener noreferrer" text-right>Hosted</a></Button>
+		        <Button colored><a href={props.projectdemo} target="_blank" rel="noopener noreferrer" text-right>Demo</a></Button>
 		    </CardActions>
 			</Card>
 		</div>

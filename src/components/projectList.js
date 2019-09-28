@@ -9,7 +9,9 @@ const ProjectList=({projectListData, activeTab})=>{
 		projectTite={projectListData[i].projectTite} 
 		summary={projectListData[i].summary} 
 		imagelink={projectListData[i].imagelink} 
-		github={projectListData[i].github} liveLink={projectListData[i].liveLink} />
+		github={projectListData[i].github} 
+		liveLink={projectListData[i].liveLink} 
+		projectdemo={projectListData[i].projectdemo}/>
 	}
 	else return false;
 	});

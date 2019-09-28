@@ -14,7 +14,8 @@ export const projectListData=[
 	imagelink:react,
 	summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted in Herokuapp.com. This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
 	github:'https://github.com/bishwajitbd/bworldca',
-	liveLink:'https://bworldca.herokuapp.com/'
+	liveLink:'https://bworldca.herokuapp.com/',
+	projectdemo:'#'
 },
 {
 	projectId:2,
@@ -23,7 +24,8 @@ export const projectListData=[
 	imagelink:asp,
 	summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted at https://www.smarterasp.net/. Entertainment based products sales here.',
 	github:'https://github.com/bishwajitbd/bworldca',
-	liveLink:'http://bbaruaca-001-site1.etempurl.com/'
+	liveLink:'http://bbaruaca-001-site1.etempurl.com/',
+	projectdemo:'#'
 },
 
 {
@@ -33,7 +35,8 @@ export const projectListData=[
 	imagelink:asp,
 	summary:'Demonestrate SOAP API using WCF. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
-	liveLink:'#'
+	liveLink:'#',
+	projectdemo:'#'
 },
 {
 	projectId:3,
@@ -42,7 +45,8 @@ export const projectListData=[
 	imagelink:android,
 	summary:'Tic-Toc-Toe App is a dynamic app that store data in the sqlite.',
 	github:'https://github.com/bishwajitbd/Android_Tic_Toc_Toe',
-	liveLink:'#'
+	liveLink:'#',
+	projectdemo:'#'
 },
 {
 	projectId:3,
@@ -51,7 +55,8 @@ export const projectListData=[
 	imagelink:android,
 	summary:'Easy to post blog and share it within your team. Data store in your Firebase database',
 	github:'https://github.com/bishwajitbd/BloggingProject_Android',
-	liveLink:'#'
+	liveLink:'#',
+	projectdemo:'#'
 },
 {
 	projectId:4,
@@ -60,7 +65,8 @@ export const projectListData=[
 	imagelink:python,
 	summary:'Demonestrate REST API using Python and flash.',
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
-	liveLink:'#'
+	liveLink:'#',
+	projectdemo:'#'
 },
 {
 	projectId:5,
@@ -69,7 +75,8 @@ export const projectListData=[
 	imagelink:java,
 	summary:'Demonestrate JPA exersise using Java.',
 	github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
-	liveLink:'#'
+	liveLink:'#',
+	projectdemo:'#'
 },
 {
 	projectId:6,
@@ -78,7 +85,8 @@ export const projectListData=[
 	imagelink:access,
 	summary:'Client App. Developed complain tracking and sticker printing',
 	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
-	liveLink:'#'
+	liveLink:'#',
+	projectdemo:'#'
 },
 {
 	projectId:7,
@@ -87,8 +95,9 @@ export const projectListData=[
 	imagelink:selenium,
 	summary:'A complete testing framework following page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
 	github:'https://github.com/bishwajitbd/TestingFrameworkWithSelenum',
-	liveLink:'https://www.youtube.com/watch?v=Vvm8fw9K_S4'
-},
+	liveLink:'https://www.youtube.com/watch?v=Vvm8fw9K_S4',
+	projectdemo:'https://www.youtube.com/watch?v=Vvm8fw9K_S4'
+}
 ]
 
 
