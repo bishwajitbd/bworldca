@@ -34,7 +34,7 @@ export const projectListData=[
 	projectTite:'SOAP API',
 	imagelink:asp,
 	summary:'Demonestrate SOAP API using WCF. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
-	github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
+	github:'https://github.com/bishwajitbd/WCF_REST_API_DistributedApp_Music',
 	liveLink:'#',
 	projectdemo:'#'
 },
