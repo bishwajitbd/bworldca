@@ -15,7 +15,7 @@ export const projectListData=[
 	summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted in Herokuapp.com. This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
 	github:'https://github.com/bishwajitbd/bworldca',
 	liveLink:'https://bworldca.herokuapp.com/',
-	projectdemo:'#'
+	projectdemo:'https://www.youtube.com/watch?v=2cQHvZliN7o'
 },
 {
 	projectId:2,
@@ -25,7 +25,7 @@ export const projectListData=[
 	summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted at https://www.smarterasp.net/. Entertainment based products sales here.',
 	github:'https://github.com/bishwajitbd/bworldca',
 	liveLink:'http://bbaruaca-001-site1.etempurl.com/',
-	projectdemo:'#'
+	projectdemo:'https://www.youtube.com/watch?v=Y-sK3CG08q0'
 },
 
 {
@@ -36,7 +36,7 @@ export const projectListData=[
 	summary:'Demonestrate SOAP API using WCF. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
 	github:'https://github.com/bishwajitbd/WCF_REST_API_DistributedApp_Music',
 	liveLink:'#',
-	projectdemo:'#'
+	projectdemo:'https://www.youtube.com/watch?v=HRKEfxubMEk'
 },
 {
 	projectId:3,
