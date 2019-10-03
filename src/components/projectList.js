@@ -11,7 +11,9 @@ const ProjectList=({projectListData, activeTab})=>{
 		imagelink={projectListData[i].imagelink} 
 		github={projectListData[i].github} 
 		liveLink={projectListData[i].liveLink} 
-		projectdemo={projectListData[i].projectdemo}/>
+		projectdemo={projectListData[i].projectdemo}
+		liveLinkTitle={projectListData[i].liveLinkTitle}
+		projectdemoTitle={projectListData[i].projectdemoTitle}/>
 	}
 	else return false;
 	});

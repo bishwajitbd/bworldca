@@ -15,7 +15,9 @@ export const projectListData=[
 		summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted in Herokuapp.com. This website based on my potfolio and business exposure. Tools uses: React, react-mdl, react-router-dom, bootstrap, tachyons, font awesome, google font',
 		github:'https://github.com/bishwajitbd/bworldca',
 		liveLink:'https://bworldca.herokuapp.com/',
-		projectdemo:'https://www.youtube.com/watch?v=2cQHvZliN7o'
+		liveLinkTitle: 'Hosted',
+		projectdemo:'https://www.youtube.com/watch?v=2cQHvZliN7o',
+		projectdemoTitle: 'Demo'
 	},
 	{
 		projectId:2,
@@ -25,7 +27,9 @@ export const projectListData=[
 		summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted at https://www.smarterasp.net/. Entertainment based products sales here.',
 		github:'https://github.com/bishwajitbd/bworldca',
 		liveLink:'http://bbaruaca-001-site1.etempurl.com/',
-		projectdemo:'https://www.youtube.com/watch?v=Y-sK3CG08q0'
+		liveLinkTitle: 'Hosted',
+		projectdemo:'https://www.youtube.com/watch?v=Y-sK3CG08q0',
+		projectdemoTitle: 'Demo'
 	},
 
 	{
@@ -36,7 +40,9 @@ export const projectListData=[
 		summary:'Demonestrate SOAP API using WCF. There are three apps, one is client and two services realated. Backend data comes from SQL server uisng store porcedure.',
 		github:'https://github.com/bishwajitbd/WCF_REST_API_DistributedApp_Music',
 		liveLink:'#',
-		projectdemo:'https://www.youtube.com/watch?v=HRKEfxubMEk'
+		liveLinkTitle: '',
+		projectdemo:'https://www.youtube.com/watch?v=HRKEfxubMEk',
+		projectdemoTitle: 'Demo'
 	},
 	{
 		projectId:3,
@@ -46,7 +52,9 @@ export const projectListData=[
 		summary:'Tic-Toc-Toe App is a dynamic app that store data in the sqlite.',
 		github:'https://github.com/bishwajitbd/Android_Tic_Toc_Toe',
 		liveLink:'#',
-		projectdemo:'#'
+		liveLinkTitle: '',
+		projectdemo:'#',
+		projectdemoTitle: ''
 	},
 	{
 		projectId:3,
@@ -56,7 +64,9 @@ export const projectListData=[
 		summary:'Easy to post blog and share it within your team. Data store in your Firebase database',
 		github:'https://github.com/bishwajitbd/BloggingProject_Android',
 		liveLink:'#',
-		projectdemo:'#'
+		liveLinkTitle: '',
+		projectdemo:'#',
+		projectdemoTitle: ''
 	},
 	{
 		projectId:4,
@@ -66,7 +76,9 @@ export const projectListData=[
 		summary:'Demonestrate REST API using Python and flash.',
 		github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
 		liveLink:'#',
-		projectdemo:'#'
+		liveLinkTitle: '',
+		projectdemo:'#',
+		projectdemoTitle: ''
 	},
 	{
 		projectId:5,
@@ -76,6 +88,7 @@ export const projectListData=[
 		summary:'Demonestrate JPA exersise using Java.',
 		github:'https://github.com/bishwajitbd/Exercise3JPAApplication',
 		liveLink:'#',
+		liveLinkTitle: '',
 		projectdemo:'#'
 	},
 	{
@@ -86,7 +99,9 @@ export const projectListData=[
 		summary:'Client App. Developed complain tracking and sticker printing',
 		github:'https://github.com/bishwajitbd/DistubutedComputerAssi3',
 		liveLink:'#',
-		projectdemo:'#'
+		liveLinkTitle: '',
+		projectdemo:'#',
+		projectdemoTitle: ''
 	},
 	{
 		projectId:7,
@@ -96,7 +111,9 @@ export const projectListData=[
 		summary:'A complete testing framework following page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
 		github:'https://github.com/bishwajitbd/TestingFrameworkWithSelenum',
 		liveLink:'https://www.youtube.com/watch?v=Vvm8fw9K_S4',
-		projectdemo:'https://www.youtube.com/watch?v=Vvm8fw9K_S4'
+		liveLinkTitle: '',
+		projectdemo:'https://www.youtube.com/watch?v=Vvm8fw9K_S4',
+		projectdemoTitle: 'Demo'
 	},
 	{
 		projectId:1,
@@ -106,7 +123,9 @@ export const projectListData=[
 		summary:'WAIT 30 SECOND FOR FIRST TIME LOAD. Hosted in Herokuapp.com.',
 		github:'https://github.com/bishwajitbd/reactEcommerce',
 		liveLink:'https://reactshoppingapp.herokuapp.com/',
-		projectdemo:'#'
+		liveLinkTitle: 'Hosted',
+		projectdemo:'#',
+		projectdemoTitle: ''
 	}
 ]
 
