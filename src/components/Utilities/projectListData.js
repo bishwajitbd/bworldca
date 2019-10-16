@@ -17,7 +17,8 @@ export const projectListData=[
 		liveLink:'https://bworldca.herokuapp.com/',
 		liveLinkTitle: 'Hosted',
 		projectdemo:'https://www.youtube.com/watch?v=2cQHvZliN7o',
-		projectdemoTitle: 'Demo'
+		projectdemoTitle: 'Demo',
+		projectAll:1
 	},
 	{
 		projectId:2,
@@ -42,7 +43,8 @@ export const projectListData=[
 		liveLink:'#',
 		liveLinkTitle: '',
 		projectdemo:'https://www.youtube.com/watch?v=HRKEfxubMEk',
-		projectdemoTitle: 'Demo'
+		projectdemoTitle: 'Demo',
+		projectAll: 1
 	},
 	{
 		projectId:3,

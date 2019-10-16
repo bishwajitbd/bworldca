@@ -13,7 +13,8 @@ const ProjectList=({projectListData, activeTab})=>{
 		liveLink={projectListData[i].liveLink} 
 		projectdemo={projectListData[i].projectdemo}
 		liveLinkTitle={projectListData[i].liveLinkTitle}
-		projectdemoTitle={projectListData[i].projectdemoTitle}/>
+		projectdemoTitle={projectListData[i].projectdemoTitle}
+		projectAll={projectListData[i].projectAll}/>
 	}
 	else return false;
 	});
