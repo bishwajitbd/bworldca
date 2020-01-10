@@ -139,7 +139,19 @@ export const projectListData=[
 		github:'https://github.com/bishwajitbd/React_WebApiWithASPNet_SQLServer.git',
 		liveLink:'',
 		liveLinkTitle: '',
-		projectdemo:'#',
+		projectdemo:'https://www.youtube.com/watch?v=KzcgOmXCGtQ',
+		projectdemoTitle: 'Demo'
+	}, 
+	{
+		projectId:2,
+		projectType:'React',
+		projectTite:'REST API demo using React and ASP.NET',
+		imagelink:react_asp,
+		summary:'',
+		github:'https://github.com/bishwajitbd/React_WebApiWithASPNet_SQLServer.git',
+		liveLink:'',
+		liveLinkTitle: '',
+		projectdemo:'https://www.youtube.com/watch?v=KzcgOmXCGtQ',
 		projectdemoTitle: 'Demo'
 	}
 ]
