@@ -86,7 +86,7 @@ export const projectListData=[
 		liveLink:'#',
 		liveLinkTitle: '',
 		projectdemo:'#',
-		tools: 'Java, Android',
+		tools: 'Python, Flash',
 		projectdemoTitle: ''
 	},
 	{
@@ -111,7 +111,7 @@ export const projectListData=[
 		liveLink:'#',
 		liveLinkTitle: '',
 		projectdemo:'#',
-		tools: 'Java, Android',
+		tools: 'MS Access and SQL server',
 		projectdemoTitle: ''
 	},
 	{
@@ -119,12 +119,12 @@ export const projectListData=[
 		projectType:'Selenium',
 		projectTite:'A complete Testing Framework (Java, Selenium, TestNG)',
 		imagelink:selenium,
-		summary:'A complete testing framework following page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
+		summary:'This a complete testing framework demonestration.',
 		github:'https://github.com/bishwajitbd/TestingFrameworkWithSelenum',
 		liveLink:'https://www.youtube.com/watch?v=Vvm8fw9K_S4',
 		liveLinkTitle: '',
 		projectdemo:'https://www.youtube.com/watch?v=Vvm8fw9K_S4',
-		tools: 'Java, Android',
+		tools: 'Page object method using Java, Selenium, TestNG, Log4j2, screenshot, and more.',
 		projectdemoTitle: 'Demo'
 	},
 	{
@@ -137,7 +137,7 @@ export const projectListData=[
 		liveLink:'https://reactshoppingapp.herokuapp.com/',
 		liveLinkTitle: 'Hosted',
 		projectdemo:'#',
-		tools: 'Java, Android',
+		tools: 'React, Firebase',
 		projectdemoTitle: ''
 	},
 	{
@@ -150,10 +150,7 @@ export const projectListData=[
 		liveLink:'',
 		liveLinkTitle: '',
 		projectdemo:'https://www.youtube.com/watch?v=KzcgOmXCGtQ',
-		tools: 'Java, Android',
+		tools: 'React, ASP.NET, SQL Server',
 		projectdemoTitle: 'Demo'
 	}
 ]
-
-
-
