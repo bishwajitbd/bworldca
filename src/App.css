@@ -1,63 +1,38 @@
-.particles {
-  position: fixed;
-  top:0;
-  right: 0;
-  left: 0;
-  z-index: -1;
+.App {
+  text-align: center;
 }
 
-.projects-grid {
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
-.contact-body{
-	margin: auto;
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	justify-content: center;
-	padding-top: 2em;
-
+.App-link {
+  color: #61dafb;
 }
 
-.contact-grid{
-	text-align: center;
-	justify-content: center;
-	width: 80%;
-	height: 550px;
-	color: black;
-	border: 2px solid red;
-	margin-bottom: 20px;
-}
-
-.contact-grid h2 {
-	font-family: 'Assistant', sans-serif;
-}
-
-
-.contact-grid p {
-	font-family: 'Righteous', sans-serif;
-	font-weight: bold;
-}
-
-.contact-grid hr {
-	border-top: 5px dotted black;
-	width: 50%;
-	margin: auto;
-}
-
-.contact-list i{
-	padding-right: 5rem;
-}
-
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
